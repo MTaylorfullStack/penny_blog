@@ -1,0 +1,23 @@
+#wrapper{
+    width: 1000px;
+    margin: 0px auto;
+    background-color: aquamarine;
+    font-family: sans-serif;
+    padding: 25px;
+}
+
+#head{
+    display: flex;
+    padding: 25px;
+    background-color: white;
+}
+
+.content{
+    display: inline-block;
+    margin: 85px;
+    background-color: white;
+    padding: 25px;
+    vertical-align: top;
+    width: 250px;
+    height: 250px;
+}
